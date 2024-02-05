@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "kalıtım kapsamlı ödev/1.0.0": {
+        "runtime": {
+          "kalıtım kapsamlı ödev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kalıtım kapsamlı ödev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\bin\Debug\net6.0\kalıtım kapsamlı ödev.exe
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\bin\Debug\net6.0\kalıtım kapsamlı ödev.deps.json
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\bin\Debug\net6.0\kalıtım kapsamlı ödev.runtimeconfig.json
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\bin\Debug\net6.0\kalıtım kapsamlı ödev.dll
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\bin\Debug\net6.0\kalıtım kapsamlı ödev.pdb
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\obj\Debug\net6.0\kalıtım kapsamlı ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\obj\Debug\net6.0\kalıtım kapsamlı ödev.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\obj\Debug\net6.0\kalıtım kapsamlı ödev.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\obj\Debug\net6.0\kalıtım kapsamlı ödev.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\obj\Debug\net6.0\kalıtım kapsamlı ödev.dll
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\obj\Debug\net6.0\refint\kalıtım kapsamlı ödev.dll
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\obj\Debug\net6.0\kalıtım kapsamlı ödev.pdb
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\obj\Debug\net6.0\kalıtım kapsamlı ödev.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\kalıtım kapsamlı ödev\kalıtım kapsamlı ödev\obj\Debug\net6.0\ref\kalıtım kapsamlı ödev.dll
